@@ -13,13 +13,13 @@
 ## Part 1: NEST
 
 * Jupyter notebooks in `jupyter_notebooks`
-* Should be self-explanatory
+* Should be self-explanatory (hopefully)
 
 ## Part 2: NEST & snakemake
 
 * Snakemake workflow in `snakemake`
 * Workflow defined in `snakemake/Snakefile`
-* Workflow visuakized in `snakemake/graph.png`
+* Workflow visualized in `snakemake/graph.png`
 * Relevant scripts in `snakemake/scripts`
 * Preview of the final result in `snakemake/phase_diagram_full.png`
 
